@@ -12,7 +12,7 @@ PRAW, PSAW, Pushshift API, reddit API, numpy, pandas, vaderSentiments, seaborn, 
 
 ## Example
 
-Let's say we want to see how comments and sentiments regarding "china" or "chinese" have evolved over time in the 'vancouver','seattle','toronto','nyc','canada' subreddits from late 2011 until now.
+Let's say we want to see how comments and sentiments regarding "china" or "chinese" have evolved over time in the 'vancouver', 'seattle', 'toronto', 'nyc', 'canada' subreddits from late 2011 until now.
 
 Before using the functions we must first log in to use the API, do this as follows:
 
@@ -30,4 +30,4 @@ Now we can search and analyse.
 
 This produces the following analysis:
 
-![Alt text](China_Chinese_N.PNG?raw=true "the raging demon.")
+![Alt text](China_Chinese_N.svg?raw=true "the raging demon.")
