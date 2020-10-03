@@ -1,0 +1,9 @@
+praw
+psaw
+datetime
+numpy
+vaderSentiment
+matplotlib
+arrow
+pandas 
+seaborn
