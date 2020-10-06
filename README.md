@@ -1,4 +1,4 @@
-# The Reddit Digger
+# :pick: The Reddit Digger
 
 
 
