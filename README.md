@@ -1,5 +1,5 @@
 # :pick: The Reddit Digger
-
+Written by Shayan Gheidi.
 
 
 ## ABOUT 
