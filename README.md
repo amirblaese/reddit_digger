@@ -4,7 +4,7 @@ Written by Shayan Gheidi.
 
 ## ABOUT 
 
-Easily dig through as many reddit comments as you like and discover trends and details with automatic intelligent analysis.
+Easily dig through as many reddit comments as you like and discover trends and insights with automatic intelligent analysis.
 
 ## Dependencies
 
